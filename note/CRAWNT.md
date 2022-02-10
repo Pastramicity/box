@@ -1,4 +1,4 @@
-# CRANT
+# CRAWNT
 **Experimental note-taking system by Pastramicity**
 
 You have a single vault containing 5 folders
@@ -7,7 +7,8 @@ You have a single vault containing 5 folders
 2. [[#reso]]
 3. [[#arch]]
 4. [[#note]]
-5. [[#task]]
+5. [[#work]]
+6. [[#task]]
 
 ## card
 **cards**
@@ -28,6 +29,11 @@ use this for archives of things you don't care about anymore but don't want to d
 **notes**
 
 use this for organized, thoughtful notes
+
+## work
+**work**
+
+use this for personal projects. same as todo but without a set due date. Examples of work include poems/short stories/writing in general, markdown scrapbooking, outline/ideas for a youtube video, etc. Things you don't *have* to do, but want to. Things useful for hobbies.
 
 ## task
 **tasks**
