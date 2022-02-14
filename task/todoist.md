@@ -13,7 +13,7 @@
 ```todoist
 {
 	"name": "All tasks",
-	"filter": "upcoming"
+	"filter": "view all"
 }
 ```
 
