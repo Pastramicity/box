@@ -282,7 +282,6 @@ Gavrilo Princip (Serbian nationalist in Sarajevo, Bosnia, assassinates Archduke 
 - Russia Backs Serbia, mobilizing July 30
 - German ultimatum given to Russia July 31
 - Alliances further push war to arguably global scale
-[[Lecture 5, World War I Outbreak and Early Years.pdf|lec 5 slide 6]]
 
 ### Russian Revolution
 
@@ -404,7 +403,105 @@ Gavrilo Princip (Serbian nationalist in Sarajevo, Bosnia, assassinates Archduke 
 - Quality of life for Soviet people increased vastly at the end of the the 1920s.
 - Golden days between Civil War and Stalinism
 
+
+
 ## Interwar
+
+### Poland
+
+- Poland's ressurection means different ethnic and linguistic groups are put together
+- Silesian Plebiscite, Silesia votes German although majority Polish.
+	- Polish uprising
+	- re-divided, parts go to Poland, most go to Germany
+
+### Demobilization
+
+- 10 million dead in combat
+- transition to peace harder than expected
+- challenges for veterans
+- social unrest
+- from soldiers to civilians
+- economic unrest
+- ending propaganda campaigns
+- retying international connections
+- trade levels only exceeding pre-war levels in 1930
+- extension of suffrage -> lower class men, women in some countries -> beginnings of mass politics
+- dismantling wartime governments
+
+### Push from New Bolsheviks
+
+- Bela Kun Regime in Hungary -> March-August 1919 (133 days)
+- Hapsburg Admiral Horthy coming in to restore order
+- Counterrevolution often more violent than revolution
+	- Fear of the spread of Bolshevism
+- Spartacist Uprising, Berlin, January 1919
+- Reaction to rapid transformation that started in 19th century
+- Destabilized through war
+- Bavarian Soviet Republic, April-May 1919
+- Put down with Freikops (paramilitary units of former German soldiers)
+	- German army limited in size
+	- Fought communists in Germany
+	- Fought throughout eastern Europe
+	- Despised new republic
+
+### Kapp Putsch
+
+- Attempted coup on March 13, 1920
+- Wanted to restore a right-wing authoritarian government
+
+### Travails of Victors
+
+#### Travails of Victors: Italy
+
+- Dissatisfied with spoils of war
+- led to Italian irredentism
+
+#### Travails of Victors: Great Britain
+
+- labor conflicts -> fighting wage reduction as coal got cheaper
+- General Strike of 1926 -> 1.7 million workers walked out, especially in heavy industry and transportation
+- irish troubles
+
+#### Travails of Victors: French
+
+- Overstraining resources
+- domestic politics divided
+- prosperous but underindustrialized
+- millions dead - countless more wounded
+- hunger epidemic
+	- Hoover and ARA $1.4 million in aid (American Relief Administration)
+
+### Economic Struggles
+
+ #### Trying to Pay Reparations
+
+ - Germany trying to pay reparations
+	 - Germany simply prints more money
+	 - Hyperinflation
+- Occupation of hte Ruhr, 1923
+	- French and Belgian desire to have reparations paid
+	- occupied western coal and steel region of Germany, the Ruhr
+	- 1923-1924
+	- Dawes Plan, 1924 -> created a new schedule of payment, Germany would be loaned money from US
+
+### International Cooperation
+
+#### Soviet-German Cooperation
+
+- Germany accepts Western borders, free hand in the East
+
+#### Young Plan, 1929
+
+- Reduced reparations by 20%
+- Hoover Moratorium halts payments for a year due to Great Depression-> 1931 -> to ease international economic crisis (for both Germany and Allies) -> did little to improve situation
+
+#### Stock Market Crash
+
+- 1929
+- End of US loans
+- Start of the Great Depression
+- Polarizing effect on politics (turning to radical solutions)
+- more industrialized countries (excluding Soviet Union) hit harder/faster
 
 ### League of Nations
 
