@@ -124,6 +124,57 @@
 - Wabi: Slight natural imperfections make textures look good (i.e. wonder bread vs artisanal bread)
 - Sabi: Aging makes textures look more natural as well
 
+
+## Typography
+
+- point size
+	- size of the text
+	- desktop publishing point
+	- 1/72nd of an inch on a printed page
+	- measures with *em square*
+		- dist from highest highs in font to lowest lows
+- line  
+	- how long the text goes until a new line
+	- shorter line lengths is more digestible
+	- made for quick info like shopping list, newspaper article
+	- longer line lengths useful for things with lots of important information like a book
+- leading/spacing
+	- vertical space between lines of text
+	- based on em square
+	- 120%-145% leading is optimal for reading
+	- ascenders
+		- tops of your very highest letters
+	- cap height
+		- height of standard capital letters (usually the same as the ascender)
+	- baseline
+		- bottom of standard letters
+	- x-height
+		- from the baseline to the lowest ascender/cap height. (height of 'x')
+	- descenders
+		- bottom of letters that go below baseline (gyj, etc.)
+	- fonts with high ascenders and low descenders should not be used on multi-line text
+- tracking/letter spacing
+	- distance between two letters
+	- dependent on the typeface
+	- messing with the leading can make text look interesting but less readable
+	- kerning
+		- per letter combination spacing adjustments
+		- 
+- typeface
+	- entire font family like arial, times new roman, etc.
+	- font
+		- specific set in a typeface (bold, light, regular, etc.)
+	- serif (w/ accents)
+		- adds legibility
+		- more formal, historical, etc.
+	- sans-serif (w/o accents)
+		- more legible on smaller, low resolution screens
+		- more modern, scientific themes
+	- proportion/monospace 
+		- letters with respective proportions are more legible
+		- monospace fonts have the same letter width across all letters
+		- monospace fonts are made for programming, accounting, stat screens, etc.
+
 ## Apps
 
 ### Photoshop

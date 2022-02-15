@@ -1,4 +1,9 @@
 # History
+## Harlem Renaissance
+
+- Birthed an explosion in [[Music#Jazz|jazz]]
+- jazz musicians played [[Music#Stride|stride piano]]
+
 ## Nations Before WWI
 
 - idea of a nation was not strong before the 19th century

@@ -43,3 +43,23 @@
 - (1901-1956)
 - influenced Lester Young
 - played Sax along with trumpet accompaniment ([[#Bix Beiderbecke]])
+
+### Stride
+
+- similar to ragtime
+- more swing, less mechanical than ragtime
+- James P. Johnson *father of stride*
+
+### Duke Ellington
+
+- 1899-1974
+- relevant throughout all his life
+- one of the most important jazz composers
+- played to his band members' strengths
+- Black and Tan Fantasy (1927)
+	- programmatic music
+	- tells a story with the sound
+
+### James "Bubber" Miley
+
+- 1903-1932
