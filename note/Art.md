@@ -175,6 +175,17 @@
 		- monospace fonts have the same letter width across all letters
 		- monospace fonts are made for programming, accounting, stat screens, etc.
 
+
+## Raster vs. Vector
+
+- Raster graphics are working with pixels
+- Vector graphics are working with lines, shapes, and equations
+- photoshop is raster
+- illustrator is vector
+- vector graphics scale
+- raster graphics lose information when scaled down, pixelly when scaled up
+- printing industry uses vector graphics (for big posters for example)
+
 ## Apps
 
 ### Photoshop
@@ -202,6 +213,18 @@
 
 - Useful for extending textures in a seamless way
 
+
+
+### Illustrator
+
+- illustrator uses objects more than layers
+- large workspace
+- up/down arrow increases sides on polygon tool
+	- same for star tool
+- ctrl key to increase star point size on star tool
+- pen tool lets you make custom polygons, holding left click makes bezier curve
+- gradient tool replaces paint bucket
+- pathfinder combines objects in different ways (joining, subtracting, merging, etc.)
 
 ### Maya
 

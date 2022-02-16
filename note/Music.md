@@ -63,3 +63,4 @@
 ### James "Bubber" Miley
 
 - 1903-1932
+- alcohol addiction
