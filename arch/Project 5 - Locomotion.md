@@ -1,0 +1,9 @@
+# Locomotion
+
+Dinosaurs had a wide range of locomotion styles, from bipeds to quadropeds, to flying dinosaurs. Flying dinosaurs had to walk sometimes as well, and so their walking style was influenced by their evolution. Some flying dinosaurs, for example, walked quadropedally, but by putting their feet in front of their hands.
+
+Most long-neck dinosaurs (sauropods) were likely quadropeds, simply given their massive body weight and need for balance. Although they may have gotten on two legs to reach for higher branches. Ankylosaurs, the armored dinosaurs, were almost certainly quadrapedal as well, simply given body weight, the weight of their armor, and their barrel-shaped bodies. Stegosaurs and Ceratopsians also fit into this category. The rest of the ornithischians were most likely bipedal however. Ornithopods like Parasaurolophus walked and ran on their hind legs, and the Pachycephalosaurs did as well (so they could more easily ram with their head, perhaps). The other Saurischians (the Therapods) were often bipedal, as speed in hunting their prey was of importance. The raptors and even larger dinosaurs like T-Rex were bipedal so they could run without straining their breath and allowing more freedom of movement. Even the birds that would eventually come from the therapods in today's time are bipedal. In general, the smaller, more mobile dinosaurs needed to be bipedal so that they may run faster, whether moving as a herd or running from prey, speed overtook body size. For the larger and more armored dinosaurs, however, speed was not a priority, so quadrapedality was favored.
+
+We know that proto-dinosaurs were small, bipedal and carnivorous, and were likely fast. The trends of bipedalism and quadrapedalism in later dinosaurs must have been an example of co-evolution given this fact.
+
+Although not dinosaurs, per say, their sister clade of pterosaurs were fliers, and likely walked on all four feet when on the ground.
