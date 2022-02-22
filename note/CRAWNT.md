@@ -1,7 +1,7 @@
 # CRAWNT
 **Experimental note-taking system by Pastramicity**
 
-You have a single vault containing 5 folders
+You have a single vault containing 6 folders
 
 1. [[#card]]
 2. [[#reso]]
