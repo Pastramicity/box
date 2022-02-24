@@ -510,4 +510,113 @@ Gavrilo Princip (Serbian nationalist in Sarajevo, Bosnia, assassinates Archduke 
 
 ### League of Nations
 
+
+### Rise of Fascism in Italy
+
+- fascism is a combination of nationalism and socialism (not total socialism, took collective ideas, but oppose communism)
+
+> Fascism is an anti-Marxism which seeks to destroy the enemy by evolving a radically opposed and yet related ideology and by the use of almost identically but typically modified methods, always, however, whithin the unyielding framework of national self-assertion and autonomy.
+> -- *Ernst Nolte*
+
+#### Nationalism in Fascism
+[[#Growth of Nationalism|Nationalism]]
+
+- leadership principle
+- corporative hierachical order
+- myth of uniqueness and superiority
+- action-oriented
+- dynamism
+
+#### Socialism in Fascism
+
+As opposed to [[#Communism 1918-1921|Communism]]
+
+- Anti-capitalist
+- reintegration of proletarian masses into national community
+- syndicalism
+	- variation of socialism popular in Italy
+	- Industries to be organized into syndicates or confederations; industries owned & managed by workers
+	- Unions/organized labor as means of overcoming economic aristocracy and then running society
+- In contrast to social democratic political parties that sought gradual change or reform within the existing economic and political system
+
+#### Fascism as an Anti-Party
+
+- Often more defined by what it *wasn't* rather than what it was:
+	- Anti-capitalist
+	- Antisemitic
+	- Anticlerical
+	- Anti-democratic
+
+#### Paxton's Five Stages
+
+- Creation of movements
+- their rooting in the political system
+- their seizure of power
+- the exercise of power
+- the long duration, during whhich the fascist regime chooses either radicalization or entropy
+
+> Fascism may be defined as a form of political behavior marked by obsessive preoccupation with comunity decline, humiliation, or victimhood and by compensatory cults of unity, energy, and purity in which a mass-based party of committed nationalist militants, working in uneasy but effective collaboration with traditional elites, abandons democratic liberties and pursues with redemptive violence and without ethical or legal constraints goals of internal cleansing and external expansion.
+> -- *Robert Paxton*
+
+
+
+
+#### Benito Mussolini
+
+- born 1883
+- father was a blacksmith, anti-capitalist, socialist, republican
+- Marx, Sorel (philosopher behind syndicalism), Nietzsche
+- resentment of exploitation
+- celebration of willpower
+- founded new newspaper in 1914
+- Mussolini wanted Italy to join WWI
+- new movement among street fighters and agitators
+- black shirts, founded March 1919 -> expression of resentment, radical nationalism
+- bourgeois substitute to communism
+- appeal to middle class by fighting communists
+- growing influence, but still marginal
+- in 1922, Mussolini's party had 35/630 seats in parliament
+- 1922 March on Rome
+- 20,000 black shirts -> King frightened into accepting Mussolini as prime minister
+- Matteotti murder, 1924 -> socialist politician that was kidnapped and killed by Fascists
+- King Victor Emmanuel VIII failed to act against Mussolini following the Matteotti murder in 1924
+- Aventine Secession -> socialists withdrew from Chamber of Deputies in protest of the Matteotti murder
+- Acerbo Election Law -> 1/4 of popular vote gets 2/3 of seats in Chamber of Deputies
+- passed in november 1923, used int he 1924 general election
+- corporatism
+	- Giovanni Gentile
+	- Alternative to exploitation and class war
+	- implementing syndicalist ideas to economy -> dividing economic activity into different corporations
+	- close knit cooperation between state and corporations that basically held monopolies of various industries
+
+##### Lateran Concordat
+
+- 1929
+- pact in which each respects sphere of other (and promises not to meddle)
+- Vatican guaranteed to be independent; Italy recognizing Catholicism as "sole religion of the state"
+- Church got free hand in religion; Fascist state got Church recognition
+
+#### Fascistization
+
+- attempt to make entire society fascist
+- balilla, fascist youth organization
+
+#### Imperialism in Fascist Italy
+
+- Attack on Ethiopia
+- entered Spanish civil war on side of fascist Franco
+
+##### Anti-Comintern Pact
+
+- 1937
+- friendship treaty with Germany because increasingly ostracized by west, 1936
+- creating a "Berlin-Rome Axis"
+- supported Hitler's annexation of Austria in 1938
+- Pact of Steel, 1939 (military treaty)
+
 ## WWII
+
+### End of Italy
+
+- after allied landing in Sicily -> king kicked out Mussolini
+- mussolini freed and creates fascist state in the north, totally supported by Germany

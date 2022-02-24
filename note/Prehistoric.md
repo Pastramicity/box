@@ -147,3 +147,49 @@
 
 
 ### Dinosaurs
+
+- Meat eating dinosaurs' teeth did not occlude, they ripped prey into chunks and swallowed
+
+#### Ornithischians
+##### Marginocephalians
+
+###### Ceratopsidae
+
+- Centrosaurs
+	- smaller frills
+	- smaller eye horns
+	- longer nose horn
+	- round, short nose
+- Chasmosaurs
+	- longer frills
+	- long eye horn
+	- short nose horns
+	- thinner long nose
+- ceratopsians sliced their food with large dental battery
+- likely used frills for sexual selection (maybe to make themselves look bigger)
+
+#### Saurischians
+
+##### Sauropods
+
+- long neck dinosaurs
+- walked upright with tail off the ground
+- early sauropods were meat eaters
+- early *prosauropods* were mostly bipedal, necks slowly elongating
+- sauropods were quadropedal, long necked, herbivorous
+- earliest basal sauropod was *vulcanodon*
+- neosauropods are the ones most commonly known like brachiosaur and titanosaur
+- nose was at the top of the head
+- diplodocids
+	- peg shaped teeth
+	- brontosaurus doesn't exist
+- macronaria
+	- big nose
+	- brachiosaurs
+	- titanosaurs
+	- camarosaurus
+	- more upright necks
+	- some brachiosaurids had osteoderms (bones in skin)
+	- insular dwarfism causes some titanosaurs to become tiny
+	- broad teeth in brachiosaurs
+	- peg teeth in titanosaurs

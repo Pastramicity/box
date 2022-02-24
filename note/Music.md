@@ -64,3 +64,10 @@
 
 - 1903-1932
 - alcohol addiction
+
+### Benny Goodman
+
+- used klezmer clarinet in jazz
+- played smooth jazz
+- switched to hot jazz, played over the radio at night
+- people in different time zones still awake made the show popular
