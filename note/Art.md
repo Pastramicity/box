@@ -228,5 +228,37 @@
 
 ### Maya
 
+- different workspaces (top right)
+- File -> send to Unity/Unreal (*probably useful*)
+- Modify -> transform options
+- Display -> Heads Up Display -> Poly count
+- Windows -> Preferences -> Undo -> Queue size should be larger (200-500 recommended)
+- left side
+	- select: q
+	- lasso
+	- knife?
+	- rotate: e
+	- scale: r
+	- insert edge loop
+	- switch between camera views, hit space bar on window
+	- toggle outliner (list of objects)
+	- focus on selected object: f
+	- change names of objects in outliner
+- double click on Poly Modeling -> shape brings up new shape settings
+- world, object symmetry
+- change pivot: hold d
+- Modify -> center pivot
+- boolean
+	- union: combine
+	- difference: subtracts/removes
+- you shouldn't have any faces with more than 4 sides
+- hold right mouse -> change selection mode
+- combine objects physically with bridge tool
+	- select edges on hole (shift double click?) and bridge
+- Mesh -> cleanup (box), highlight or fix
+- Modify -> Freeze transformation applies transforms
+- Delete history before exporting because Maya explodes?
+
+
 ### Zbrush
 

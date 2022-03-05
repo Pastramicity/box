@@ -1,0 +1,12 @@
+How did World War I change life for civilians and society in general, both during the war and afterwards during the interwar period? You may focus on a single country or draw on examples from multiple countries, but please specify that in your introduction.
+
+ID count: 5
+Response:
+
+During and after World War I, life for the average civilian was drastically changed across the world. During the war, propaganda, conscription, and political changes forced people in countries like Britain, America, and those in between debated territories to adopt a new, more active way of life. Women worked while the men were at war, and families and others were forced into the fray of mass politics, meanwhile an explosion of new political paradigms in Europe placed new emphasis on civilians' views, opinions, and participation in government. 
+
+Before World War I in Britain, conscription hadn't existed, but as fervor and enthusiasm died out for the war, it had to be reinstated in order to maintain troops. This placed new pressures on the remaining women in the country (as well as in America) to work and produce, replacing the previous jobs of men. Thankfully, this further pushed civil rights for women such as in the 19th Amendment in the U.S., however it forced families apart and threw them into the fray of total war on a global scale.
+
+Propaganda campaigns in various places pushed new ideas of nationalism onto the average civilian. After the war, with territories being debated, places like Silesia had the Silesian plebiscite, bolstered by more propaganda, that would force the average person to have to decide what nationality and country they wished to belong to. The state stopped being a simple governing force, and now had realized the power of controlling the will of the masses.
+
+New ideas overtaking the governments of several countries in revolutionary upheavals of the status quo. Ideas of Nationalism, Communism, and Fascism, tugged on the opinions of the average European in several directions. The placement of politics in everyday life and enforcement of its acceptance in various authoritarian regimes on the rise caused mass death of civilian populations, economic problems like post-war Germany, and other everyday issues.
