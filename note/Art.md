@@ -258,7 +258,17 @@
 - Mesh -> cleanup (box), highlight or fix
 - Modify -> Freeze transformation applies transforms
 - Delete history before exporting because Maya explodes?
-
-
+- uv menu?
+	- uv button top middle right-ish
+	- Create -> automatic
+	- fit uvs in one standard uv square
+	- try not to overlap faces in uv
+	- stitch sides together
+	- select hard edges, cut tool on right
+	- select uv faces, unfold to unstretch them
+	- transform menu on right to set rotation, scale, etc.
+	- camera button (uv snapshot)
+- right click object, choose material attributes
+- check texture button (top of model window)
 ### Zbrush
 

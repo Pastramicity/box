@@ -1,0 +1,6 @@
+# Whispers
+
+The history of our planet, not only our modern day and age of humanity, but the past of our planet is of great importance. The patterns and stories of the past can serve as both reminders of what can go wrong and what we can do to fix it - cautionary tales - as well as reminders of the beauty our Earth is capable of producing, giving us a reason to try and fix our planet before we send it further down a path of destruction. 
+Dinosaurs in particular may act as both a very interesting topic, studying great beasts of a different age, as well as context when thinking upon where we are and where the Earth is headed.
+Dinosaurs also serve as a great example of evolution, informing our knowledge of the Earth's inhabitants and how they change - along with their ecosystem - over time.
+I very much enjoyed several parts of this class, including learning the different clades of dinosaurs and their evolutionary history. I enjoyed constructing a mental timeline of all the events of our planet's long gone past. I enjoyed studying the anatomy and bone structure of various dinosaurs' skulls and bodies. The class taught me of the ecosystems of various times of the dinosaurs, how they interacted, and how they evolved. I learned of the state of the Earth, continents and all, and its change over hundreds of millions of years. 

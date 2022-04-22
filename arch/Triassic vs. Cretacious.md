@@ -1,0 +1,9 @@
+# Triassic v. Cretacious
+
+The Triassic and the Cretacious periods had vastly different ecological webs and systems from each other. In the Triassic, especially the early stages, dinosaurs hadn't conquered the Earth yet. They were still small carnivores. In contrast, the Cretacious period had large dinosaurs of various distinct types, some herbivorous and some carnivorous. Another ecological difference is the flora of the times. The Triassic only had gymnosperms and pteridophytes, whereas the Cretacious introduced the gymnosperms (flowering plants).
+
+Focusing on dinosaurs, the evolutionary histories of the Triassic and Cretacious were quite different. Obviously the dinosaurs of the Cretacious stemmed from their early ancestors in the Triassic, but even then there were stark differences. The 7 clades of dinosaurs hadn't fully formed in the Triassic, where they had in the Cretacious. Another difference is how mammals only evolved in the late Triassic, where they existed throughout the Cretacious.
+
+On the Earth's physical state, the Cretacious and Triassic were astonishingly distinct. The supercontinent of Pangea only existed in the Triassic, whereas the Cretacious saw a separation of the continents by large oceans. 
+
+What we can learn from especially the distinct difference between the Triassic and Cretacious is that after mass extinction events, the existing small animals will often grow to larger sizes and split off into several different species as time progresses. It happened with the dinosaurs and then it happened with the mammals. Who knows, maybe the mass extinction happening now will leave the earth empty for a whole new clade of intelligent crabs.
