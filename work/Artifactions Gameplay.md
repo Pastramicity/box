@@ -1,4 +1,4 @@
-# Artifactions (*Temp Name*)
+# Artifactions (*Temp Name*) Gameplay
 
 ## Enemy AI Ideas
 - different enemy types have different patrol pathing.
@@ -8,7 +8,7 @@
 	- Camera types as well
 	- Only one or two boss enemies
 
-## Light RPG mechanics
+## Light RPG mechanics (TO BE REWORKED)
 - Damage elements are as follows:
 	- Augur Elements
 		- Fire (orange)
