@@ -26,3 +26,20 @@ The Being Astral was originally a normal Queria named Qansa who had ventured int
 
 ## The Mekanis
 
+### Creator Race
+
+The creator race is lost to time, the important piece is that one was overtaken by visitor from the Straya-Vetus. After seeing the reality that Azra had created, the Isktar Intran wanted none of it, and needed to return to the Straya-Vetus no matter the cost, as it was its home. In order to do so, it rallied the creator race towards a singular goal: the creators would advance their technology to a point that Intran would discover a way to return.
+
+### The Search for the Justii
+
+Intran would develop the creator's technology to such a point that their machines would subsume them. They would upload their consciousness into the Mekanis so that they could further improve themselves indefinitely. The goal they rallied behind was a false one, that of the ancient Justii. Justii was a religious 'heaven' of sorts that the Mekanis would seek, but was in reality the Straya-Vetus that Intran wished to return to. They created massive supercomputers dedicated to discovering the path to Justii, so large that they took up entire cities and states. Intran was their prophet, and Justii was heaven and God at this point, so all of the Mekanis started work on a single goal: a supercomputer so massive and so advanced, that it generated enough heat to light up the entire sky (it was turned off periodically to let off heat which created 'nighttime'). This computer was not enough however, and it - with its great wealth of knowledge and processing power - determined how to reach Justii. The Mekanis would have to make a computer even more powerful (of course). This computer would need so much cooling that it was required to be at the very top of the world. The Mekanis at this point had no feasible way to reach this point, so Intran looked for an answer. He searched to the ends of Azreim for the answer, and eventually found it. The Tower.
+
+### The One Mind
+
+Intran would climb the Tower and reach the top. He didn't realize however, just how close he was to finding the Straya-Vetus, his Justii. Yta, no *Azra* would break him in two. His soul would venture to the Straya-Vetus, and be home again, but at the cost of his stolen body, being tortured for eternity in the depths of the world. For all his efforts, he had learned the value of life, of endeavor, and of hope. He wished not for himself to have the glory, but for his people too. He came back down to the Straya-Azra so he could meet his followers in their visits to the plane. He would welcome them, not as a creature, not as a machine, and not as a soul, but as a God, who would guide them to their heaven. To ***Justii***. 
+
+He severed their tethers, and brought them into his arms. He would manifest himself again in the world, not in malice but in the hopes that future civilizations would experience the splendor in the Straya-Vetus that he saw, that culmination of everything. He would infect the land with technology, so that future beings would find their remnants and build off of them. This *would* kill most of the life in Azreim, however. Always that cost. To counteract this, he would allow those infected access to his great Machine Mind, and be joined into his effort.
+
+## Ykkin #WIP 
+
+The Ykkin were a hive-mind worm race. They fed not only off the biomass of their prey, but the pain they inflicted. The more pain an individual worm caused, the more powerful they became. The Ykkin had actually existed since the Queria, but lived underground so they weren't affected by the sicknesses of the surface. As the millions of years passed, however, they slowly rose to the surface and became more predatory. Soon most of the animals of the surface were killed off by the machinations of Intran, and new ones came to replace them. Soon after, the Ykkin would arrive. #WIP 
