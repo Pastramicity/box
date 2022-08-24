@@ -1,4 +1,6 @@
 
+# Lore
+
 ## The Spire
 
 The Spire is a great tower at the end of the world. The purpose of the tower is for the chosen one of each cycle to become the next Proditor and cleanse their civilization. The 3 Proditors before the game were The Being Astral, destroying the ancient race of sorcerers, using the primal currents of the world. The next were the Mekanists, a machine race destroyed by the One Mind. And the latest cycle was comprised of a race of Torturers, waging wars and using the currents of the world to create mangled lifeforms fit for their purposes, destroyed the Proditor, the Festering Wound.
@@ -43,3 +45,13 @@ He severed their tethers, and brought them into his arms. He would manifest hims
 ## Ykkin #WIP 
 
 The Ykkin were a hive-mind worm race. They fed not only off the biomass of their prey, but the pain they inflicted. The more pain an individual worm caused, the more powerful they became. The Ykkin had actually existed since the Queria, but lived underground so they weren't affected by the sicknesses of the surface. As the millions of years passed, however, they slowly rose to the surface and became more predatory. Soon most of the animals of the surface were killed off by the machinations of Intran, and new ones came to replace them. Soon after, the Ykkin would arrive. #WIP 
+
+
+
+## Magic
+
+In the World (World refers to the entire Uni/Multiverse), there exists no pure extremes of good/evil (with 2 exceptions). Every good has its evil and every evil has its good.
+
+These Deals as they are called are the acts of the Ordon of Azreim. Naught but the Azrean (used as a descriptor of something of Azreim, not referring to the *Azreins*) soul may create a Deal in Azreim.
+
+ Magic in the world is just like every other worldly skill. You will never be born with the ability to use it and only through training and natural ability may you better your magical skill. It has no hidden power scaling. The strength of the soul is the same across all. 
