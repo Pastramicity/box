@@ -54,3 +54,11 @@ for(int i = 0; i < 4; i++)
 }
 ```
 
+- Unary have highest precedence
+- ++x increments first, x++ increments after (evaluation)
+- logical precedence:
+	- > < >= <=
+	- == !=
+	- &&
+	- ||
+- 
