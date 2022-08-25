@@ -52,6 +52,28 @@ The Ykkin were a hive-mind worm race. They fed not only off the biomass of their
 
 In the World (World refers to the entire Uni/Multiverse), there exists no pure extremes of good/evil (with 2 exceptions). Every good has its evil and every evil has its good.
 
-These Deals as they are called are the acts of the Ordon of Azreim. Naught but the Azrean (used as a descriptor of something of Azreim, not referring to the *Azreins*) soul may create a Deal in Azreim.
+These Deals as they are called, are the acts of the Ordon of Azreim. Naught but the Azrean (used as a descriptor of something of Azreim, not referring to the *Azreins*) soul may create a Deal in Azreim.
 
- Magic in the world is just like every other worldly skill. You will never be born with the ability to use it and only through training and natural ability may you better your magical skill. It has no hidden power scaling. The strength of the soul is the same across all. 
+Magic in the world is just like every other worldly skill. No special people will never be born with the ability to use it, everyone can. And only through training and natural ability may you better your magical skill. It has no hidden power scaling. The strength of the soul is the same across all living organisms. 
+
+If the elements (fire, earth, water, air, etc.) are the elements of the realm, then the magics are the manipulation of elements which reside in the Straya-Azra, as their effects are seen in the realm, just as the elements are reflected in some way into the Straya. 
+
+The different elements that reside in the Straya are called the Throna and the magic itself is called Thronara.
+
+The first Throna and the first Thronic Catalyst is Soul. As the soul resides within the body in parallel space, many Thronic Deals require the insertion of certain materials and things into the body, which may cause other physical effects. These elements are in no particular order.
+
+The second Throna is Ralskyar, it is the level of 'reality' in space. In general Ralskyar is very high across space, however the further conscious life is from a space, the less Ralskyar it holds. Other anomalies may affect Ralskyar levels. Ralskyar is not the amount of conscious life, it simply flocks to it.
+
+The third Throna is Diaspora, this can be considered as 'luck'. It is the level of 'unlikelihood'/likelihood in a given region.
+
+The fourth Throna is Spyugra, Spyugra is manifest as 'beauty'
+
+The fifth Throna is Urvan. Urvan is harmony with the will of Azra, with Eternity. Whenever time seems to slow or to gain momentum, it is the changing of Urvan around the soul. The more Urvan the faster time seems to move.
+
+The sixth Throna is Azkil. Azkil is one of the elements created by Yta. Azkil is many things, death, dread, and finality. Azkil is the 'end.' It is the second Catalyst.
+
+The seventh is Twera. It is the 'tear' Twera is very rare and acts to bridge the gap between the Realm, the Straya, and the Straya-Vetus.
+
+The eighth is Aqsa. It is 'the divide'. The more disparate two things are, the more Aqsa lies between.
+
+The ninth is Efrin and the third catalyst. Efrin is the scrap of the Deepest one of the Straya-Vetus, filtered to the surface. It is the most unknowable.    
