@@ -61,4 +61,23 @@ for(int i = 0; i < 4; i++)
 	- == !=
 	- &&
 	- ||
-- 
+
+### Passing Arguments
+
+- Pass by value
+	- method gets a copy of a value (usually on primitives)
+- Pass by reference
+	- method gets a reference to a value (usually on objects)
+
+- Java only uses pass by value (technically)
+
+### OOP
+
+- 'extends' to inherit
+- derived classes extend from base classes
+- @Override to override functionality (not needed but best practice)
+- You don't need a keyword like 'virtual' from c#
+- keyword 'super' to refer to this object through the lens of the base class
+- run base class constructor with super(...)
+- super constructor must be run first
+- object's types change based on what is needed at runtime (Polymorphism)
