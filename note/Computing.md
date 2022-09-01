@@ -81,3 +81,31 @@ for(int i = 0; i < 4; i++)
 - run base class constructor with super(...)
 - super constructor must be run first
 - object's types change based on what is needed at runtime (Polymorphism)
+- Interfaces are purely abstract, only have common methods/functionality
+- Interfaces can only contain fields of type public static final
+- 'implements' keyword for interfaces
+- you can implement multiple interfaces, as opposed to classes
+- one common example of an interface in java is the Comparable interface
+
+```java
+public interface Comparable<T>{
+	public int compareTo(T item);// -1 means this is before, 0 is the same, 1 means this is after
+}
+```
+
+- Note on generics:
+	- ArrayList<Triangle> IS NOT ArrayList<Shape> even though Triangle IS a Shape
+	- To get around this use wildcards
+		- <? extends Shape> refers to Shape or anything that extends it
+		- <? extends T> can also work on interfaces (don't have to use 'implements')
+
+- 
+
+
+
+## Algorithms
+
+
+
+## Data Structures
+
