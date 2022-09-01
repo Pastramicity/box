@@ -98,6 +98,15 @@ public interface Comparable<T>{
 	- To get around this use wildcards
 		- <? extends Shape> refers to Shape or anything that extends it
 		- <? extends T> can also work on interfaces (don't have to use 'implements')
+		- <? super T> incoudes everything above, including Object
+	- Primitives don't work in generics
+		- 'wrapper' classes
+			- Integer, Float, Double
+		- autoboxing and unboxing to remedy this
+	- Static methods can use generics
+	- example: public static <T> boolean doWork(...)
+	- sometimes you need to pass a function into another function, such as to explain how to use < in a generic method, this is called a function object, or a functor
+	- Comparator has compare
 
 - 
 
