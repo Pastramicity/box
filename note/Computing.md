@@ -92,27 +92,28 @@ public interface Comparable<T>{
 	public int compareTo(T item);// -1 means this is before, 0 is the same, 1 means this is after
 }
 ```
+```
 
 - Note on generics:
 	- ArrayList<Triangle> IS NOT ArrayList<Shape> even though Triangle IS a Shape
 	- To get around this use wildcards
-		- <? extends Shape> refers to Shape or anything that extends it
-		- <? extends T> can also work on interfaces (don't have to use 'implements')
-		- <? super T> incoudes everything above, including Object
+		- Question-mark == ?
+		- <Question-mark extends Shape> refers to Shape or anything that extends it
+		- <Question-mark extends T> can also work on interfaces (don't have to use 'implements')
+		- <Question-mark super T> incoudes everything above, including Object
 	- Primitives don't work in generics
 		- 'wrapper' classes
 			- Integer, Float, Double
 		- autoboxing and unboxing to remedy this
 	- Static methods can use generics
 	- example: public static <T> boolean doWork(...)
-	- sometimes you need to pass a function into another function, such as to explain how to use < in a generic method, this is called a function object, or a functor
+	- sometimes you need to pass a function into another function, such as to explain how to use the less than symbol in a generic method, this is called a function object, or a functor
 	- Comparator has compare
 
-- 
+```
 
 
 
-## Algorithms
 
 
 
