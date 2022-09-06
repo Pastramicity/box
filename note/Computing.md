@@ -112,10 +112,69 @@ public interface Comparable<T>{
 
 ```
 
-
-
-
-
-
 ## Data Structures
 
+- Different than an abstract data type (ADT)
+	- non-specific model for storing and accessing data
+	- broadly defines operations on the data
+- A data structure is a concrete implementation of an ADT
+- stores data and can manipulate it
+- implementation exists as *source code*
+- Examples:
+	- List is an ADT
+	- list data structures include arraylist, linkedlist, etc.
+- A Collection is an ADT that holds items (unspecific)
+	- Collection is an interface in java
+	- ArrayCollection
+		- items stored in the order they are inserted
+		- no duplicates
+		- adding
+			- keep track of size
+			- if size is less than the allocated space, put new data at index size
+			- otherwise make new temp array that is bigger
+			- copy data to temp
+			- set data reference to temp
+			- growing is O(N)
+			- How much to grow?
+				- usually double the length
+				- growth will be rare
+		- shrinking
+			- should we even shrink?
+				- usually no, unless space is a concern
+			- how to remove?
+				- remove(item)
+				- move subsequent items back by one
+				- adjust size variable accordingly
+				- finding the item is O(N)
+				- filling the gap is O(N)
+				- the whole operation is O(N)
+	- many collections cannot be indexed with the [] operator
+		- trees for example
+	- collection's implementation should be private
+	- iterators solve this problem
+		- an iterator's job is to get items out of a collection one at a time
+		- Collection has a method called iterator()
+		- iterator gives limited access to private internals
+		- iterator has public standard methods
+		- methods:
+			- hasNext
+				- determines if iteration is complete
+			- next
+				- gets the next item
+			- remove
+				- removes the last seen item(returned by next)
+
+```java
+Iterator<String> itr = stringCol.iterator()
+
+while(itr.hasNext())
+	System.out.println(itr.next());
+```
+
+- Iterators Cont'd.
+	- remove removes the last seen item, so if nothing is seen then it throws an exception
+	- you also cannot call remove multiple times before running next again
+	- Nested Private Class
+		- put a class inside another class, this class will have access to the private internals of the outer class
+		- to the outside, the iterator nested private class is just seen as an iterator
+		- 
