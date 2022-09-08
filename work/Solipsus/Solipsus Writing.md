@@ -1,4 +1,4 @@
-# Artifactions Writing
+# Solipsus Writing
 
 ## Intro Text
 

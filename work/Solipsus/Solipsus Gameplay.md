@@ -1,4 +1,4 @@
-# Artifactions (*Temp Name*) Gameplay
+# Solipsus Gameplay
 
 ## Enemy AI Ideas
 - different enemy types have different patrol pathing.

@@ -177,4 +177,54 @@ while(itr.hasNext())
 	- Nested Private Class
 		- put a class inside another class, this class will have access to the private internals of the outer class
 		- to the outside, the iterator nested private class is just seen as an iterator
-		- 
+
+## Algorithms
+
+### Complexity
+
+- quadratic (N^2)
+- linear (N)
+- logarithmic (logN)
+- constant (1)
+- ...
+
+The primary factor of a program's performance is the algorithmic complexity. Secondary factors are things like code quality, computer speed, optimization, your OS, etc.
+
+The class of complexity an algorithm is in is solely determined by the most dominant term of N
+
+Before optimizing code, pick the right algorithm
+
+#### Big O Notation
+
+- O(complexity)
+- pronounced 'order complexity'
+
+
+
+### Complexity Cont'd
+
+Some algorithms have different cases
+
+- worst case
+- average case
+- best case
+
+best case is the least useful
+
+average case is the most useful
+
+### Sorting Algorithms
+
+#### Selection Sort
+
+Find the smallest value and swap its place with the first, the continue with the remaining array until you reach the end.
+
+O(N^2)
+
+### Search Algorithms
+
+#### Binary Search
+
+O(logN)
+
+start in the middle if it is less/greater, cut away the unimportant section (half) and repeat until one left, check and return if found

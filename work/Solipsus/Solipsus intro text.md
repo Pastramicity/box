@@ -1,4 +1,5 @@
-# Artifactions WIP
+# Solipsus
+WIP
 
 ---
 
