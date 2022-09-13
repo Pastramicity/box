@@ -221,6 +221,14 @@ Naive sorting algorithms are O(N^2)
 
 NlogN is the fastest for comparison-based sorting
 
+#### Inversion
+
+If you check an item in an array, how many elements in the rest of the array are in the wrong place relative to it. Count how many unique inversions for the whole array, that is the array's *unsortedness* (I)
+
+The more inversions removed per step is how efficient a sorting algorithm is
+
+average num inversions = num_pairs/2 = (N^2-N)/2/2=(N^2-N)/4
+
 #### Insertion
 
 Put element at the end of an array and swap with previous element until in the correct position
@@ -229,9 +237,11 @@ O(N)
 
 #### Insertion Sort
 
-Use [[#Insertion]] repeatedly on an empty list, drawing elements from your input list.
+Use [[#Insertion]] repeatedly on list, pushing a pointer for what part of the array is sorted to the right until finished
 
-O(N^2)
+W - O(N^2)
+A - O(N^2)
+B - O(N)
 
 #### Selection Sort
 
