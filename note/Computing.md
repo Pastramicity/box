@@ -215,6 +215,24 @@ average case is the most useful
 
 ### Sorting Algorithms
 
+Sorting itself usually isn't the goal, it is to allow other algorithms to run or run faster.
+
+Naive sorting algorithms are O(N^2)
+
+NlogN is the fastest for comparison-based sorting
+
+#### Insertion
+
+Put element at the end of an array and swap with previous element until in the correct position
+
+O(N)
+
+#### Insertion Sort
+
+Use [[#Insertion]] repeatedly on an empty list, drawing elements from your input list.
+
+O(N^2)
+
 #### Selection Sort
 
 Find the smallest value and swap its place with the first, the continue with the remaining array until you reach the end.
