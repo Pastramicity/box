@@ -249,6 +249,8 @@ Find the smallest value and swap its place with the first, the continue with the
 
 O(N^2)
 
+#### 
+
 ### Search Algorithms
 
 #### Binary Search
@@ -256,3 +258,19 @@ O(N^2)
 O(logN)
 
 start in the middle if it is less/greater, cut away the unimportant section (half) and repeat until one left, check and return if found
+
+### Recursion
+
+Calling a function within itself.
+
+Finding a smaller version of the problem over and over again until the problem can get no smaller/you find a special case.
+
+Recursive calls must move towards a solution
+Their must be a case that does not run a recursive call
+
+Often times recursive methods need extra parameters that the user shouldn't have to fill in, so we make a *Driver Method* which passes in the correct starting parameters and streamlines use for users. The Driver Method should not be recursive. Driver Methods can also allow for error checking that isn't recursive.
+
+
+
+
+
