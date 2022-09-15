@@ -249,7 +249,15 @@ Find the smallest value and swap its place with the first, the continue with the
 
 O(N^2)
 
-#### 
+#### Merge Sort
+
+Cut array in half, **sort** either half (Recursive!), merge the two sorted halves
+
+O(NlogN)
+
+##### Merge
+
+To merge to sorted arrays, grab a pointer at the start of both arrays, take the lesser and move that pointer forward. Continue comparing and taking until one pointer reaches the end of an array and add the rest of the other array.
 
 ### Search Algorithms
 
