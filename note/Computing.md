@@ -253,6 +253,7 @@ O(N^2)
 #### Merge Sort
 
 Cut array in half, **sort** either half (Recursive!), merge the two sorted halves
+Make temporary array for merge sort in driver method (size N). Initialize method with right space, for loop putting null in all slots.
 
 O(NlogN)
 
