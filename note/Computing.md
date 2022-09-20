@@ -237,6 +237,7 @@ O(N)
 
 #### Insertion Sort
 
+Algorithm of choice for small arrays
 Use [[#Insertion]] repeatedly on list, pushing a pointer for what part of the array is sorted to the right until finished
 
 W - O(N^2)
@@ -255,9 +256,30 @@ Cut array in half, **sort** either half (Recursive!), merge the two sorted halve
 
 O(NlogN)
 
+Often times when we get down to small arrays in merge sort we run insertion sort on that small array and continue with merge sort. This doesn't change the complexity as long as the threshold for insertion sorting is not related to N.
+
 ##### Merge
 
 To merge to sorted arrays, grab a pointer at the start of both arrays, take the lesser and move that pointer forward. Continue comparing and taking until one pointer reaches the end of an array and add the rest of the other array.
+
+#### Quicksort
+
+any pivot works, however median is best.
+finding median is costly so we take a sample of the first, middle and last and find the median of those, or a random index, etc. The performance and quality is a tradeoff, so make the best judgement.
+
+O(NlogN) if best partitioning, O(N^2) if worst partitioning
+
+W - O(N^2)
+A - O()
+B - O(NlogN)
+
+##### Out of place
+
+Pick a pivot (usually the median), put all smaller values in a left partition and larger values in a right partition, run quicksort on the partitions until finished.
+
+##### In Place
+
+Pick pivot and swap it to the end. Keep two indices, left and right (right is just to the left of the pivot at the end), move L (left) to the right until something bigger than the pivot is found, and move R to the left until something smaller is found. Once both are found, swap them. Continue until L is past R. Then swap the pivot at the end with what is at L. Quicksort everything to the left of the new pivot location and the same on the right.
 
 ### Search Algorithms
 
