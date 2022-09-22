@@ -178,6 +178,22 @@ while(itr.hasNext())
 		- put a class inside another class, this class will have access to the private internals of the outer class
 		- to the outside, the iterator nested private class is just seen as an iterator
 
+### Arrays
+
+Arrays are *random access* which means getting an element takes constant time.
+
+### Linked Structures
+
+Nodes point to other Nodes. Nodes hold data. Adding and removing is constant due to this.
+
+#### Linked List
+
+Every node has a value and a link to the next node.
+
+Last element points to null/nothing.
+
+Linked List holds a pointer to the first node.
+
 ## Algorithms
 
 ### Complexity
