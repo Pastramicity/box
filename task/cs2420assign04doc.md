@@ -1,6 +1,6 @@
 # Assignment 4
 
-I (Chase Yates) and Liam Astin worked on this assignment. We swapped in the middle of the assignment between driver and navigator. Liam submitted the code on Gradescope.
+I (Chase Yates) and Liam Astin worked on this assignment. We swapped in the middle of the assignment between driver and navigator. I submitted the code on Gradescope.
 
 ## Question 1
 
