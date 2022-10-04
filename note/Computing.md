@@ -224,8 +224,11 @@ Linked List holds a pointer to the first node.
 - same issue with arrays as stacks
 - use linked lists again
 - use circular array if you know size will always be less than some amount or if you don't want higher constant cost and dont care about O(N) cases
-- 
 
+#### Priority Queue
+
+- poll operation returns the smallest item
+- can't have only O(1)
 ## Algorithms
 
 ### Complexity
