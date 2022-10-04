@@ -229,6 +229,7 @@ Linked List holds a pointer to the first node.
 
 - poll operation returns the smallest item
 - can't have only O(1)
+
 ## Algorithms
 
 ### Complexity
