@@ -194,6 +194,38 @@ Last element points to null/nothing.
 
 Linked List holds a pointer to the first node.
 
+### Stacks
+
+- stacks only allow access to the top. You can add and take off from the top.
+- First in, last out. (FILO)
+- 3 ops
+	- push - adds to the top
+	- pop - removes and returns the top
+	- peek - look at the top but don't remove
+- all ops constant except when using array and push requires a grow where it is O(N)
+- using a linked list (even singly linked)
+	- push is addFirst
+	- pop is removeFirst and return it
+	- peek is getFirst
+	- Always O(1) on every op
+- useful for undoing things in the reverse order you did them in.
+
+### Queues
+
+- somewhat the opposite of a stack
+- First in - First out (FIFO)
+- Add to back, remove from front
+- ops
+	- offer/enqueue - adds an item to the back of the queue
+	- poll/dequeue - removes and returns the item at the front
+	- peek - returns item at the front
+- All ops are O(1)
+- First come, first serve
+- same issue with arrays as stacks
+- use linked lists again
+- use circular array if you know size will always be less than some amount or if you don't want higher constant cost and dont care about O(N) cases
+- 
+
 ## Algorithms
 
 ### Complexity
