@@ -340,6 +340,19 @@ Pick pivot and swap it to the end. Keep two indices, left and right (right is ju
 
 #### Radix Sort
 
+##### Least Significant Digit
+
+For numbers of base B, create B 'buckets' (queues).
+Go from least significant digit to most.
+For each of these digits, place the whole number into the queue of the index of that digit.
+Once all nums are placed, go from first to last queue, popping each element into the new array. Repeat for each digit. Once you have repeated this for every digit, the last array will be sorted.
+
+O(kN) where k is number of digits
+stability must be maintained
+Does not work for strings of varying length
+
+##### Most Significant Digit
+
 
 
 #### Stable Sort
