@@ -265,7 +265,7 @@ best case is the least useful
 
 average case is the most useful
 
-### Sorting Algorithms
+### Comparison Sorting Algorithms
 
 Sorting itself usually isn't the goal, it is to allow other algorithms to run or run faster.
 
@@ -333,6 +333,27 @@ Pick a pivot (usually the median), put all smaller values in a left partition an
 ##### In Place
 
 Pick pivot and swap it to the end. Keep two indices, left and right (right is just to the left of the pivot at the end), move L (left) to the right until something bigger than the pivot is found, and move R to the left until something smaller is found. Once both are found, swap them. Continue until L is past R. Then swap the pivot at the end with what is at L. Quicksort everything to the left of the new pivot location and the same on the right.
+
+### Non-Comparison Sorting Algorithms
+
+- *Can be* faster than O(NlogN)
+
+#### Radix Sort
+
+
+
+#### Stable Sort
+
+Any sort that keeps the order of duplicates
+
+examples include:
+- merge sort
+- insertion sort
+- selection sort
+
+counterexamples include:
+- quicksort
+- heapsort
 
 ### Search Algorithms
 
