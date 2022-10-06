@@ -353,6 +353,20 @@ Does not work for strings of varying length
 
 ##### Most Significant Digit
 
+Create B buckets again (B can also be the range of values link in strings)
+Start with leftmost digit and place each number into its bucket.
+Sort each bucket with more than one entry by going to the next digit. Consider no letter as the smallest bucket.
+
+Not necessarily stable
+
+#### Bucket Sort
+
+same idea as radix sort, but buckets can have a range of values. Put values in respective buckets. Sort each bucket. Pull values out of the buckets in order.
+
+Creates small, independent sorting problems which can be done simultaneously.
+
+O(N) to bucketize
+O(b*?) where b is # of buckets and ? is cost of custom sort
 
 
 #### Stable Sort
