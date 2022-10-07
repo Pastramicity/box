@@ -28,7 +28,11 @@ I checked the length of the passed `ArrayList` slice by subtracting the end inde
   Note that the best threshold value may be a constant value or a fraction of the list size.
 > Plot the running times of your merge sort for five different threshold values on permuted lists (one line for each threshold value).  In the five different threshold values, be sure to include the threshold value that simulates a full merge sort (and identify that line as such in your plot).
 
+For this experiment I used list sizes of 5000 as that was all my computer could do within a reasonable time. I used a bit more than five threshold sizes to get a larger sample. The following chart is what I found:
 
+![[a5c1.png]]
+
+According to the chart, the most efficient threshold size ended up being 50 elements, at which mergesort would switch over to insertion sort. As expected, the mergesort time overhead caused it to take much longer with pure mergesort (0 threshold).
 
 ## Part 5
 
@@ -51,13 +55,31 @@ The third strategy we implemented is to take the median of the first, last, and 
 > Quicksort pivot experiment:  Determine the best pivot-selection strategy for quicksort.  (As in #5, use large list sizes and the same set of permuted lists for each strategy.)
   Plot the running times of your quicksort for three different pivot-selection strategies on permuted lists (one line for each strategy).
 
+For this experiment I ran 20 tests on all three pivot selection strategies on arraylists of size 0 to 1900, looping 1000 times on each sort to get a good average time. Here are the results:
+
+![[a5c2.png]]
+
+As you can see, the random selection strategy seems to have been the slowest, with median of three and middle following almost exactly the same trend. As median of three is more safe in edge cases, I think this is the best option for pivot selection.
+
 ## Part 8
 
 > Merge sort vs. quicksort experiment:  Determine the best sorting algorithm for each of the three categories of lists (ascending, permuted, and descending).  For the merge sort, use the threshold value that you determined to be the best.  For the quicksort, use the pivot-selection strategy that you determined to be the best.  (As in #5, use large list sizes and the same list sizes for each category and sort.)
   Plot the running times of your sorts for the three categories of lists.  You may plot all six lines at once or create three plots (one for each category of lists).
+
+For this experiment, I ran the same number of tests and list sizes as the previous experiment. The results I got were very shocking:
+
+![[a5c3.png]]
+
+![[a5c4.png]]
+
+![[a5c5.png]]
+
+As you can see, quicksort simply outclassed mergesort in terms of speed on my machine. However, both algorithms seem to follow the trend of O(NlogN)
+
 
 ## Part 9
 
 > Do the actual running times of your sorting methods exhibit the expected growth rates?  Why or why not?
   How did you determine the growth rate of the actual running times (e.g., trend of the plotted line, convergence of T(N)/F(N), or something else)?
 
+The trends of the lines and the data I gathered seem to point to a roughly O(NlogN) performance for both algorithms. I am surprised, however at simply how much faster quicksort seems to work at these large problem sizes. I did use an insertion sort threshold on my quicksort algorithm as it was optional (and got rid of a few stack overflow headaches), which may have contributed to this trend as well.
