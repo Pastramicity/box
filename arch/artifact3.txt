@@ -1,0 +1,12 @@
+I was getting tired of my constant background on my computer so I decided to write some code to randomize it between various pictures of angels (or whatever else I want) in my Pictures folder. The code is comprised of two files. The first is a fish script because I use the fish shell for my linux computer, and the second is an sh script because my computer supports launching that at login, so each time I login, my background is randomized.
+
+bg.fish:
+
+# set background
+set TMPNUM (random 0 (ls "$HOME/Pictures" | grep "angel" | wc -l))
+set -U TMPPATH "$HOME/Pictures/angel$TMPNUM.jpg"
+feh --bg-scale $TMPPATH
+
+bg.sh:
+
+fish "/home/pastra/code/startup/bg.fish"
