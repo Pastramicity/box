@@ -230,6 +230,18 @@ Linked List holds a pointer to the first node.
 - poll operation returns the smallest item
 - can't have only O(1)
 
+### Tree
+
+- Linked list is a type of tree where each branch only points to another branch
+- keeps track of only one node
+- a node can point to more than one other node
+- root node
+- parent and child nodes
+- internal nodes (with children)
+- leaf node (no children)
+- stores data in each node (key/value/data)
+- take children as roots of their own 'subtrees'
+
 ## Algorithms
 
 ### Complexity
