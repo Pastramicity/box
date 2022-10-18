@@ -241,6 +241,11 @@ Linked List holds a pointer to the first node.
 - leaf node (no children)
 - stores data in each node (key/value/data)
 - take children as roots of their own 'subtrees'
+- *height* is the distance from some leaf (take the maximum height, all leaves have height of 0)
+- height of a tree is the height of the root
+- *depth* is distance from root
+- depth of a tree is the same as the height (largest depth)
+- *degree* of a node is the number of direct children
 
 ## Algorithms
 
