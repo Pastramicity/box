@@ -246,6 +246,11 @@ Linked List holds a pointer to the first node.
 - *depth* is distance from root
 - depth of a tree is the same as the height (largest depth)
 - *degree* of a node is the number of direct children
+- When visiting each node on a tree, visit recursively from left to right. (**Depth First Traversal**)
+	- Accessing data before recursion is **Pre-Order Traversal**
+	- Accessing data in between left and right visits is **In-Order Traversal** (only used on Binary Search Trees)
+	- Accessing data after recursion is **Post-Order Traversal**
+- 
 
 ## Algorithms
 
