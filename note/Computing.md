@@ -250,8 +250,20 @@ Linked List holds a pointer to the first node.
 	- Accessing data before recursion is **Pre-Order Traversal**
 	- Accessing data in between left and right visits is **In-Order Traversal** (only used on Binary Search Trees)
 	- Accessing data after recursion is **Post-Order Traversal**
-- 
+- Another way to traverse is **Breadth First Traversal** which is left to right, top to bottom, visiting nodes of the same depth together
 
+```pseudocode
+// Breadth-first traversal
+Instantiate Queue q
+q.enqueue(root)
+while q is not empty:
+	node = q.dequeue()
+	// access node.data
+	for all children of node:
+	q.enqueue(child)
+```
+
+- Depth first secretly uses a stack, breadth first explicitly uses a queue
 ## Algorithms
 
 ### Complexity
