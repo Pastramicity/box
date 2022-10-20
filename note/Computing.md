@@ -268,7 +268,17 @@ while q is not empty:
 
 #### Binary Search Tree
 
+Can insert, add, search in O(logN) on any comparable items
 
+Rules:
+- At most 2 children (max degree of 2)
+- All items in left subtree are less than parent
+- All items in right subtree are greater than parent
+- no duplicates (unless you store a count of how many duplicates at each node)
+
+To find the largest element, go all the way right until a node has a right child that is null.
+
+To find the smallest element, go all the way left until a node has a left child that is null.
 
 ## Algorithms
 
