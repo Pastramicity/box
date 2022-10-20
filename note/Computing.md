@@ -268,7 +268,7 @@ while q is not empty:
 
 #### Binary Search Tree
 
-Can insert, add, search in O(logN) on any comparable items
+Can insert, search, delete in O(logN) on any comparable items
 
 Rules:
 - At most 2 children (max degree of 2)
