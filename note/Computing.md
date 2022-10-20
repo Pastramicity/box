@@ -280,6 +280,11 @@ To find the largest element, go all the way right until a node has a right child
 
 To find the smallest element, go all the way left until a node has a left child that is null.
 
+To delete an element in a bst, there are 3 cases:
+1. 0 children: make its parent point to null instead of it.
+2. 1 child: make parent point to child instead (garbage collector will remove your element)
+3. replace element with the smallest element in the right subtree, then remove duplicate with these deletion methods. (recursive)
+
 ## Algorithms
 
 ### Complexity
