@@ -15,6 +15,7 @@
 - arrays are like objects, array variable is a reference
 - 0 indexed
 - auto bounds checking
+
 ```java
 double[] primArray = new double[5];
 Student[] refArray = new Student[10];
@@ -264,6 +265,11 @@ while q is not empty:
 ```
 
 - Depth first secretly uses a stack, breadth first explicitly uses a queue
+
+#### Binary Search Tree
+
+
+
 ## Algorithms
 
 ### Complexity
