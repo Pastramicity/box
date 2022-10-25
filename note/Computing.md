@@ -195,6 +195,92 @@ Last element points to null/nothing.
 
 Linked List holds a pointer to the first node.
 
+#### Tree
+
+- Linked list is a type of tree where each branch only points to another branch
+- keeps track of only one node
+- a node can point to more than one other node
+- root node
+- parent and child nodes
+- internal nodes (with children)
+- leaf node (no children)
+- stores data in each node (key/value/data)
+- take children as roots of their own 'subtrees'
+- *height* is the distance from some leaf (take the maximum height, all leaves have height of 0)
+- height of a tree is the height of the root
+- *depth* is distance from root
+- depth of a tree is the same as the height (largest depth)
+- *degree* of a node is the number of direct children
+- When visiting each node on a tree, visit recursively from left to right. (**Depth First Traversal**)
+	- Accessing data before recursion is **Pre-Order Traversal**
+	- Accessing data in between left and right visits is **In-Order Traversal** (only used on Binary Search Trees)
+	- Accessing data after recursion is **Post-Order Traversal**
+- Another way to traverse is **Breadth First Traversal** which is left to right, top to bottom, visiting nodes of the same depth together
+
+```pseudocode
+// Breadth-first traversal
+Instantiate Queue q
+q.enqueue(root)
+while q is not empty:
+	node = q.dequeue()
+	// access node.data
+	for all children of node:
+	q.enqueue(child)
+```
+
+- Depth first secretly uses a stack, breadth first explicitly uses a queue
+
+##### Binary Search Tree
+
+Can insert, search, delete in O(logN) on any comparable items
+
+Rules:
+- At most 2 children (max degree of 2)
+- All items in left subtree are less than parent
+- All items in right subtree are greater than parent
+- no duplicates (unless you store a count of how many duplicates at each node)
+
+To find the largest element, go all the way right until a node has a right child that is null.
+
+To find the smallest element, go all the way left until a node has a left child that is null.
+
+To delete an element in a bst, there are 3 cases:
+1. 0 children: make its parent point to null instead of it.
+2. 1 child: make parent point to child instead (garbage collector will remove your element)
+3. replace element with the smallest element in the right subtree (or largest element in the left subtree), then remove duplicate with these deletion methods. (recursive)
+
+#### Graphs
+
+Graphs have nodes with data, and they point to other nodes, and these pointers have 'weights'
+
+Useful for maps, airlines, pathfinding, dependencies, etc.
+
+##### Definitions
+
+Set of `vertices`/nodes, connected by `edges`/links. No parent/child relationship. edges can be bidirectional.
+
+`Directed graphs` are graphs where edges have direction
+
+`Weight` is a cost value associated with traveling an edge
+
+`Cycle` is a path from a vertex back to itself
+
+`DAG` or *directed acyclic graph* is a graph with directed edges without cycles (like dependency graphs)
+
+`Path` sequence of neighbors from start point to end point, following directionality
+
+##### Code
+
+Sets have no duplicates and no ordering
+
+Graph class with set of nodes
+
+Node class has data and set of neighbor nodes
+
+Often you need to `pathfind` from one vertex to another. Often multiple paths, path length is important, number of nodes traversed important.
+
+Depth first and Breadth first pathfinding.
+
 ### Stacks
 
 - stacks only allow access to the top. You can add and take off from the top.
@@ -231,59 +317,6 @@ Linked List holds a pointer to the first node.
 - poll operation returns the smallest item
 - can't have only O(1)
 
-### Tree
-
-- Linked list is a type of tree where each branch only points to another branch
-- keeps track of only one node
-- a node can point to more than one other node
-- root node
-- parent and child nodes
-- internal nodes (with children)
-- leaf node (no children)
-- stores data in each node (key/value/data)
-- take children as roots of their own 'subtrees'
-- *height* is the distance from some leaf (take the maximum height, all leaves have height of 0)
-- height of a tree is the height of the root
-- *depth* is distance from root
-- depth of a tree is the same as the height (largest depth)
-- *degree* of a node is the number of direct children
-- When visiting each node on a tree, visit recursively from left to right. (**Depth First Traversal**)
-	- Accessing data before recursion is **Pre-Order Traversal**
-	- Accessing data in between left and right visits is **In-Order Traversal** (only used on Binary Search Trees)
-	- Accessing data after recursion is **Post-Order Traversal**
-- Another way to traverse is **Breadth First Traversal** which is left to right, top to bottom, visiting nodes of the same depth together
-
-```pseudocode
-// Breadth-first traversal
-Instantiate Queue q
-q.enqueue(root)
-while q is not empty:
-	node = q.dequeue()
-	// access node.data
-	for all children of node:
-	q.enqueue(child)
-```
-
-- Depth first secretly uses a stack, breadth first explicitly uses a queue
-
-#### Binary Search Tree
-
-Can insert, search, delete in O(logN) on any comparable items
-
-Rules:
-- At most 2 children (max degree of 2)
-- All items in left subtree are less than parent
-- All items in right subtree are greater than parent
-- no duplicates (unless you store a count of how many duplicates at each node)
-
-To find the largest element, go all the way right until a node has a right child that is null.
-
-To find the smallest element, go all the way left until a node has a left child that is null.
-
-To delete an element in a bst, there are 3 cases:
-1. 0 children: make its parent point to null instead of it.
-2. 1 child: make parent point to child instead (garbage collector will remove your element)
-3. replace element with the smallest element in the right subtree (or largest element in the left subtree), then remove duplicate with these deletion methods. (recursive)
 
 ## Algorithms
 
