@@ -299,6 +299,16 @@ Adjacency List is a list of all nodes and their connections and their weights
 
 Adjacency Matrix is a matrix with every node on the left and on the top. Nodes go from left to top. If their is an edge, store the weight, otherwise infinity.
 
+##### Types
+
+###### Sparse Graph
+
+Every vertex has a small (~1) number of edges
+
+###### Dense Graph
+
+Every vertex has an edge with all or most other vertices
+
 ### Stacks
 
 - stacks only allow access to the top. You can add and take off from the top.
