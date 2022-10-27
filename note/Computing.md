@@ -281,6 +281,24 @@ Often you need to `pathfind` from one vertex to another. Often multiple paths, p
 
 Depth first and Breadth first pathfinding.
 
+[[#Topological sort]] useful for things like dependency graphs
+
+##### Weighted Edges
+
+cost of 'traversing' an edge (distance, time, currency, etc.)
+
+*Weighted path length* is the sum of all edge weights on a path
+
+When a graph has weights we refer to the lowest weighted path length as the *shortest* path
+
+Shortest weighted path length is not always the same as the shortest unweighted path length.
+
+##### Storage Method
+
+Adjacency List is a list of all nodes and their connections and their weights
+
+Adjacency Matrix is a matrix with every node on the left and on the top. Nodes go from left to top. If their is an edge, store the weight, otherwise infinity.
+
 ### Stacks
 
 - stacks only allow access to the top. You can add and take off from the top.
@@ -470,6 +488,11 @@ counterexamples include:
 - quicksort
 - heapsort
 
+
+#### Topological sort
+
+If b relies on a, a comes before b. (useful for [[#Graphs]])
+
 ### Search Algorithms
 
 #### Binary Search
@@ -489,7 +512,17 @@ Their must be a case that does not run a recursive call
 
 Often times recursive methods need extra parameters that the user shouldn't have to fill in, so we make a *Driver Method* which passes in the correct starting parameters and streamlines use for users. The Driver Method should not be recursive. Driver Methods can also allow for error checking that isn't recursive.
 
+### Graph Algorithms
 
+[[#Topological sort]] is one example
+
+#### Dijkstra's Algorithm
+
+Keep track of the total path cost so far from start node to current node
+
+Cost of path to next node is total cost so far plus weight of edge to next node.
+
+Initialize 'cost' of start node to 0 and every other node to infinity. Add start node to priority queue. Add the other nodes to it as well. While the queue is not empty, poll the queue and look at its neighbors. Take current cost plus edge to neighbor. If this cost is less than the neighbor node's cost, update it to this new cost. Store where the neighbor node was visited from as well.
 
 
 
