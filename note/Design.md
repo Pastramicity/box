@@ -72,3 +72,17 @@
 		- where this occurs
 	- macro
 		- large structures and laws that shape events
+
+## UN Goal: Energy Sustainability
+
+### Questions for Users
+
+- How do you use electricity on a daily basis?
+- Does your power grid support this use?
+- How often are you without electricity?
+- Do outages cause difficulty for you?
+- Do you supply your own energy?
+- Does your place of work rely on electricity?
+- Do outages cause issues at work?
+- What source of energy do you rely on?
+- Does the environmental impact of energy production affect you and how?
