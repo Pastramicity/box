@@ -3,5 +3,4 @@
 - Education interrupted by power outages
 - Lack of light
 - Air conditioning goes out
-- Power used for industry cut
 - Lack of Wi-fi

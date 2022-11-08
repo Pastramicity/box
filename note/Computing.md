@@ -345,6 +345,53 @@ Every vertex has an edge with all or most other vertices
 - poll operation returns the smallest item
 - can't have only O(1)
 
+### Hash Tables
+
+An array which uses the hash function on a piece of data, then running the result remainder the array size to find an index in an array.
+
+In the average case, every operation is constant
+
+Collisions occur when two objects result in the same index in the array.
+
+Performace degrades as collisions occur.
+
+Three solutions to this problem:
+
+#### Linear Probing
+
+Try one index higher until an empty spot is found.
+
+When searching for the item, look at usual spot and increment index until empty spot or item found.
+
+Treat array as circular
+
+In order to delete, mark spot as deleted. When adding, mark as active. You can replace 'deleted' items when adding.
+
+`load factor` is ratio of table that is occupied (0-1) (lambda)
+
+number of cells to examine is 1/(1-lambda)
+
+Clustering occurs. Positive feedback loop.
+
+Sometimes you have to grow the table.
+Double the size, then find the next prime number after that.
+Put items from starting table to new table, rehashing.
+
+#### Quadratic Probing
+
+If index is H, try H + 1^2,2^2,3^2, etc. Wrap around. Use the rest of linear probing strategy.
+
+Reduces clustering.
+
+Can get stuck in loop.
+
+To fix this:
+- Table size must be a prime number
+- Load factor has to be < 0.5
+
+Thus no cell is visited twice and every cell is visited
+
+#### Separate Chaining
 
 ## Algorithms
 
@@ -534,5 +581,6 @@ Cost of path to next node is total cost so far plus weight of edge to next node.
 
 Initialize 'cost' of start node to 0 and every other node to infinity. Add start node to priority queue. Add the other nodes to it as well. While the queue is not empty, poll the queue and look at its neighbors. Take current cost plus edge to neighbor. If this cost is less than the neighbor node's cost, update it to this new cost. Store where the neighbor node was visited from as well.
 
+### Hash Function
 
-
+A hash function is a function which takes any type of data and gives back an integer.
