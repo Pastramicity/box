@@ -1,0 +1,6 @@
+- Power supply is insecure and inconsistent
+- Can't refrigerate food from lack of power
+- Education interrupted by power outages
+- Lack of light
+- Air conditioning goes out
+- Lack of Wi-fi
