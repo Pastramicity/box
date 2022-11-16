@@ -1,4 +1,3 @@
-
 # Lore
 
 ## The Spire
@@ -6,7 +5,7 @@
 The Spire is a great tower at the end of the world. The purpose of the tower is for the chosen one of each cycle to become the next Proditor and cleanse their civilization. The 3 Proditors before the game were The Being Astral, destroying the ancient race of sorcerers, using the primal currents of the world. The next were the Mekanists, a machine race destroyed by the One Mind. And the latest cycle was comprised of a race of Torturers, waging wars and using the currents of the world to create mangled lifeforms fit for their purposes, destroyed the Proditor, the Festering Wound.
 
 ### Creation
-Out of nothing, birthed Chaos. And chaos ruled indeterminate. Realms were created and fell, along with the Straya, an astral world atop the realm. No more than one realm may exist at once, and no more than two Straya may exist at once. Old Straya are merged with the Straya-Vetus, a Straya containing every Straya previous. Creatures of the realm may enter their realm's Straya, at great difficulty and are tethered to their realm. The Isktar - The beings of the Straya - however, cannot enter a realm. But by stealing the tether of Ordon - being(s) of the realm - and severing it, they may manifest in various ways, physical and otherwise. Previously, no two Straya ever interacted before they were merged, until the present Age.
+Out of nothing, birthed Chaos. And chaos ruled indeterminate. Realms were created and fell, along with the Straya, an astral world atop the realm. No more than one realm may exist at once, and no more than two Straya may exist at once. Old Straya are merged with the Straya-Vetus, a Straya containing every Straya previous. Creatures of the realm may enter their realm's Straya, at great difficulty and are tethered to their realm. The Isktar - The beings of the Straya - however, cannot enter a realm. But by stealing the tether of Ordon - being(s) of the realm - and severing it, they may manifest in various ways, physical and otherwise. Previously, no two Straya ever interacted before they were merged, until the present Age. This amalgamation of reality comprised of the Straya, the Straya-Vetus, and the Realm (Everything you might say) is called Hyon.
 
 Our current age begins with the ascension of a being of the old realm, Azra, who destroyed the old realm, and merged the Straya-Vetus. She created her realm, Azreim, and her Straya of souls, the Straya-Azra. Azra sought for her realm to be the last, as she had learned the history of the world by visiting the Straya-Vetus before the creation of her new reality, opening a tear that would never be fully closed. Only with Azra's power would the Yterna - the gate between the Straya-Azra and the Straya-Vetus - remain shut. 
 
