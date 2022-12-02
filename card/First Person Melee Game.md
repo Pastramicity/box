@@ -1,0 +1,1 @@
+First Person beat-em up with hotline miami-paced action. No fighting game style combos. Impactful attacks. Ways to react to stimulus and ways to react. You can play the game perfectly like sekiro.
