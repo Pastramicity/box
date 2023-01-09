@@ -1,0 +1,27 @@
+# Gameplay Ideation
+
+- headshots give health
+- melee kills give health
+- you have a shield, but once its broken you die in one hit
+- overdrive meter
+	- you can increase the meter in chunks to deal more damage/get a buff. Too much and your shield breaks
+- shotgun
+- assault rifle
+- semi-auto rifle
+- half-life style cursor-targeting rocket launcher
+- impact grenade launcher
+- up-close ability that hooks a chord to enemy and siphons their energy for you
+- combo meter
+- wallrunning
+- shield breaks and sends a shockwave upgrade
+- time slow charges overdrive meter
+- some way to 'rocket jump'
+- gravity gun blast
+- i-frames after shield breaks (could be an upgrade)
+- skill trees (like different classes) (borderlands)
+- different states of abilities (stances)
+- mastery
+- know your state OBVIOUSLY
+- CRAZY MOVEMENT
+- 
+- 
