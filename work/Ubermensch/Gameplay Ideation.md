@@ -24,5 +24,14 @@
 - know your state OBVIOUSLY
 - CRAZY MOVEMENT
 - STATE SYSTEM (You know the one)
-- 
-- 
+- Semi-auto rifle, that the alt fire splits into two submachine guns and back
+- HID style low ammo charge-up tesla coil, alt fire is hacking dart that makes enemy turn against other enemies
+- Shotgun, alt fire is close-range, chomps/chops enemy into pieces(ammo)
+- Turret with high and low toss (left and right click). If it hits the floor, becomes a turret. If reactivated in the air (with either button) it shoots bullets beneath in a cone. If it hits an enemy, it attaches and does high single target damage.
+- At all times you have access to a parry. You can only parry melee attacks, on a successful parry, you go into a phase dimension where nothing can hit you for a short time, and upon exiting, you get a small, separate overshield (and maybe mobility cooldowns are gone)
+- Overcharge mobility is a 45 degree angle backwards rocket boost
+- Neutral attack is iron man chest repulsor beam
+- Neutral mobility is a directional lateral dash on the ground, but a forward 45 degree boost in the air
+- Overcharge attack will on the ground shotgun kick in a cone in front of you. In the air it will make you fall and do an explosive axe kick. Both kicks will then launch you backwards to disengage
+- Low attack shoots a low damage dart. If the dart hits an enemy, it will stun any enemies touching the line connected between you and the dart and send you to overcharge after a short time
+- low mobility is a short directional blink/teleport
