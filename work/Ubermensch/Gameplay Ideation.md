@@ -35,3 +35,4 @@
 - Overcharge attack will on the ground shotgun kick in a cone in front of you. In the air it will make you fall and do an explosive axe kick. Both kicks will then launch you backwards to disengage
 - Low attack shoots a low damage dart. If the dart hits an enemy, it will stun any enemies touching the line connected between you and the dart and send you to overcharge after a short time
 - low mobility is a short directional blink/teleport
+- tesla gun  is actually a large ship anchor attached by a chain to the gun, while in the gun it just acts like a directed tesla coil (primary fire), but with the alternative fire it shoots out the chain-attached anchor and it acts like a grappling hook, but it only gets lodged in large enemies, where it electricutes them (small humanoid-size enemies are just one shot, cut in half or something idk), then you can retract the hook, pulling the enemy to you.
