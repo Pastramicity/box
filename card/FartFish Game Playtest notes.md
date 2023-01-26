@@ -1,0 +1,11 @@
+
+- No sound, so little feedback, although visual feedback is good. (I'm sure you'll add sound soon)
+- Key didn't spawn after I killed boulder belcher one time.
+- Movement didn't start after clicking into game and clicking again.
+- If you are on one end of the arena in the fiery gaze fight and he's on the other you can't see him or his telegraphs. Love the look and the background animations.
+- Got caught by boulder belcher's double spit, maybe a distinct telegraph for that would be good, I'd go in to grab the boulder and he'd get a free hit on me.
+- Wasn't always clear the range I could grab objects to fling (I know its the circle but sometimes I'd have to get really close or further objects would get grabbed)
+- Range to grab objects is maybe a tad small, a couple times in fiery gaze I accidentally hit myself on the orbs I was trying to grab.
+- Looks great, fluid and awesome pixel art
+- Love the Smash-style boss intros.
+- Title screen maybe? I thought the name of the game was boulder belcher until I got to the second boss lmao.
