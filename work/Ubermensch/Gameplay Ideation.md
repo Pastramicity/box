@@ -23,5 +23,12 @@
 - mastery
 - know your state OBVIOUSLY
 - CRAZY MOVEMENT
-- 
+- different mobility for each shield mode
+- try to only break shield ON PURPOSE
+- punished in terms of damage when shield broken
+- dash into someone to get their shields
+- 3 states: low, neutral/mid, overcharge/high
+- Two? abilities: mobility and offensive per state. each ability will send you to a different state. Each ability will activate the cooldown of either mobility skills or attack skills
+- neutral or overcharge ability that is a chest rail cannon (high to low)
+- (neutral ability) shield explosion knockback
 - 
