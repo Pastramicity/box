@@ -5,8 +5,8 @@
 1. Hark! Hark you bound ones! I call to you! I bid you, use those spotlights. Cast away these shadow-devils with their honeyed words. They speak, unredeemed by the world. Their reason is trickery, and their argument, a magician's illusion.
 2. Avoid these apparitions. Find your disdain, I say! And use it to orient away from these sweet lies, lest they send you down dark roads.
 3. Nay! Nay! Three times nay! That is what I say to those hinterworlds. Love the Earth, and all that is well-known by its evidence. A precarious leap to hidden ledges is what I call those hidden realms.
-4. Faith? Bah! It is twisted by old guessings and leapings. Let us redefine faith. It is love, I decree, love of that which gives and fills the life. Faith now? Eureka! It is love of fate and that birthing womb known as Earth and Body and Self.
-5. Only repeat what has its reason. Not but one reason, though. Why not a multitude! And may the be re-examined ad infinitum. And discriminate not against that reason too simple, or that reason too lengthy. Vetting cares not of complexity nor length.
+4. Faith? Bah! It is twisted by old guessings and leapings. Let us redefine faith. It is love, I decree, love of that which gives and fills the life. Faith now? Eureka! It is love of fate and that birthing womb known as Earth and Body and Self. Have *this* faith in the world, and not just its pleasures, but its pains too! For every pain and mistake is a lesson for brighter tomorrows.
+5. Only repeat what has its reason. Not but one reason, though. Why not a multitude! And may they be re-examined ad infinitum. And discriminate not against that reason too simple, or that reason too lengthy. Vetting and truth depend not on complexity nor length.
 
 ## On Direction
 
