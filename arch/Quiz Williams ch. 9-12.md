@@ -1,0 +1,5 @@
+# Williams Chapter 9-12 Quiz
+
+1. Underlining should be used when a distinct separation between elements is needed, either to provide contrast, to emphasize, or to cut up the space.
+2. Serif typefaces contain small markings pen-writing would leave at the ends of letters, ornamenting the text, while sans serif typefaces do not contain these and ends of letters are usually more straight and rigid. Further, serif typefaces most commonly contain stress, where different parts of the letters are thicker and others less so, that writing with a pen at an angle would produce. Sans serif typefaces are usually the same thickness at every part, although not always.
+3. You might choose to use a sans serif typeface when you need to have another typeface on the page, however you want to use the usually monoweight structure of sans serif to contrast with your other font(s), along with other contrasts.
