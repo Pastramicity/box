@@ -1,0 +1,6 @@
+- 0 video tape in upstairs directly to the right room
+- limbs in room mentioned above
+- hammer in basement
+- video tape in first floor bathroom
+- bandages in kitchen
+- wire cutters in clock room left first floor of house as well as hammer
