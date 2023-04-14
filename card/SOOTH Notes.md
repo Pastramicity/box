@@ -1,6 +1,3 @@
-- 0 video tape in upstairs directly to the right room
-- limbs in room mentioned above
-- hammer in basement
-- video tape in first floor bathroom
-- bandages in kitchen
-- wire cutters in clock room left first floor of house as well as hammer
+- video tape and candy bar in safe room
+- 9751 is bunker code
+- old backup kept in secure storage on B2
