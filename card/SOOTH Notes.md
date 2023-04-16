@@ -1,3 +1,0 @@
-- video tape and candy bar in safe room
-- 9751 is bunker code
-- old backup kept in secure storage on B2
